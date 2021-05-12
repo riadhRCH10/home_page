@@ -57,4 +57,14 @@
    width: 25px;
 }
 
+.leftpos {
+    position: absolute;
+    left: 0px;
+}
+
+.rightpos{
+    position: absolute;
+    right: 0px;
+}
+
 
